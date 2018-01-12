@@ -1,0 +1,17 @@
+No audio for video in example box in components amp_ap_banner
+Steps to reproduce:
+1.Launch FireFox
+2.Go to https://ampbyexample.com/
+3.Click on the hamburger menu
+4.Tap on "Components"
+5.Tap on "amp ap banner"
+6.Observe no audio for the video in example box
+
+Observer result: No audio for video in example box
+Expected result: Audio should be enabled
+ENVIRONMENT DETAILS:
+-FireFox 10.4
+-Device Model= MQ8D2LL/A IPhone 8
+-Android OS version = 11.2.2
+-Device Serial number= F2MVHJAKJCL
+Screen shot:https://user-images.githubusercontent.com/35077268/34802336-08eb8700-f622-11e7-8a66-98bae8326fe0.jpg
